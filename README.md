@@ -1,4 +1,4 @@
-# Git Desktop
+# xD.Discord BOT
 
 Discord JS สำหรับกดรับยศใน Discord
  
